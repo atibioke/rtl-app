@@ -28,7 +28,7 @@ function App() {
         <div className="input-inner-container">
           <input
             type="text"
-            placeholder="Your Todo..."
+            placeholder="Add A New Todo Here"
             value={text}
             onChange={handleChange}
           />
